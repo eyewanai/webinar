@@ -10,7 +10,7 @@ git clone https://github.com/eyewanai/webinar.git
 
 Для запуска потребуется:
 
-1. Python версии выше 3.8: https://www.python.org/downloads/
+1. Python версии выше 3.8 (рекомендуемая версия: 3.14.2): https://www.python.org/downloads/
 2. Редактор кода, например VS Code: https://code.visualstudio.com
 3. Jupyter Notebook: установите расширение Jupyter в VS Code или используйте https://jupyter.org/install
 
@@ -19,5 +19,3 @@ git clone https://github.com/eyewanai/webinar.git
 ```bash
 pip3 install -r requirements.txt
 ```
-
-Ожидаемый результат: зависимости устанавливаются без ошибок.
